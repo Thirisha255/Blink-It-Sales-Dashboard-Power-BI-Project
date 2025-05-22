@@ -1,5 +1,7 @@
  ## Project Overview
 This Power BI project analyzes BlinkIt’s sales data to uncover insights into item trends, outlet performance, customer ratings, and sales distribution. The goal was to transform raw retail data into a dynamic, interactive dashboard that supports data-driven decisions.
+## Dataset used
+-<a href="https://github.com/Thirisha255/Blink-It-Sales-Dashboard-Power-BI-Project/commit/3f4d0043e3407149b0aabf0301f968042c52263d">Dataset<a/>
 ##  Tools & Technologies Used
 - Power BI Desktop
 - Power Query Editor (for data cleaning and transformation)
