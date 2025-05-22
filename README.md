@@ -56,3 +56,5 @@ Total Sales by Outlet Location
 - Using slicers, filters, and interactivity for a better user experience
 - Presenting insights effectively through dashboards
 ## Dashboard image
+-<a href="https://github.com/Thirisha255/Blink-It-Sales-Dashboard-Power-BI-Project/commit/3f4d0043e3407149b0aabf0301f968042c52263d"Dashboard><a/>
+
