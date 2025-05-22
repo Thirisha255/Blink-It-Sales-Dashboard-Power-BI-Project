@@ -1,6 +1,8 @@
  ## Project Overview
 This Power BI project analyzes BlinkIt’s sales data to uncover insights into item trends, outlet performance, customer ratings, and sales distribution. The goal was to transform raw retail data into a dynamic, interactive dashboard that supports data-driven decisions.
-## Dataset used
+## Data Files
+- dataset.xlsx: Original Excel data used in Power BI
+- dataset.csv: Converted version for quick preview on GitHub
 -<a href="https://github.com/Thirisha255/Blink-It-Sales-Dashboard-Power-BI-Project/commit/3f4d0043e3407149b0aabf0301f968042c52263d">Dataset<a/>
 ##  Tools & Technologies Used
 - Power BI Desktop
@@ -47,3 +49,10 @@ Total Sales by Outlet Location
 - Tier 3 outlets generate the most revenue, contributing over $472K in sales.
 - Most outlets were established after 2015, and those newer outlets show increasing sales trends.
 - Small and medium-sized outlets comprise over 75% of total sales, highlighting their importance in the Blink It network.
+- ## What I Learned
+**This project helped me improve my practical Power BI skills in:**
+- Cleaning and transforming real-world datasets
+- Designing KPIs and choosing appropriate visuals
+- Using slicers, filters, and interactivity for a better user experience
+- Presenting insights effectively through dashboards
+## Dashboard image
